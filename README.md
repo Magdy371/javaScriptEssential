@@ -46,4 +46,4 @@ Clone the repository and navigate into it:
 
 ```bash
 git clone https://github.com/Mgdy371/javaScriptEssential.git
-cd js-essentials
+cd javaScriptEssential
